@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Phrasewise">
+  <rect width="512" height="512" rx="114" fill="#211F1C"/>
+  <path d="M112 152a48 48 0 0 1 48-48h192a48 48 0 0 1 48 48v112a48 48 0 0 1-48 48H232l-64 60a10 10 0 0 1-17-7v-53h-3a48 48 0 0 1-36-48V152Z" fill="#FBF8F4"/>
+  <circle cx="186" cy="208" r="23" fill="#4E6294"/>
+  <circle cx="256" cy="208" r="23" fill="#A45247"/>
+  <circle cx="326" cy="208" r="23" fill="#3F7357"/>
+</svg>
